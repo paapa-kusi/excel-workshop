@@ -9,6 +9,8 @@ Please download the Excel file titled "Workshop Datasheet 1.xlsx". This is the d
 * To download Excel from Office 365 go to <a href="www.office.com">www.office.com</a> and log in with your UFL email.
 * At the top right select "Install and more" and then "Install Microsoft 365 apps".
 ![Excel Workshop Image](images/365screen.png)
+* This will take you to the "My Account" page where you can click install Office 365.
+![image](images/image.png)
 * It's a big file so it may take a moment.
 
 
