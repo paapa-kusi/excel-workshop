@@ -15,6 +15,6 @@ Please download the Excel file titled "Workshop Datasheet.xlsx". This is the dat
 
 ## Using Online Excel
 * If you don't want to download Office 365, there is an online version that can be used.
-* To access it, sign in to <a href="www.office.com">Office</a> 365, click on the dots in the top right corner, and click on Excel.
+* To access it, sign in to <a href="www.office.com">Office 365</a>, click on the dots in the top right corner, and click on Excel.
 ![Online Excel Image](images/excel.png)
 * Upload the dataset and start your work!
