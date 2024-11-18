@@ -1,6 +1,6 @@
 # Welcome to the Excel Workshop!
 
-Please download the Excel file titled "Workshop Datasheet 1.xlsx". This is the dataset we'll be working on.
+Please download the Excel file titled "Workshop Datasheet.xlsx". This is the dataset we'll be working on.
 
 
 # Using Excel
@@ -11,10 +11,10 @@ Please download the Excel file titled "Workshop Datasheet 1.xlsx". This is the d
 ![Excel Workshop Image](images/365screen.png)
 * This will take you to the "My Account" page where you can click install Office 365.
 ![image](images/image.png)
-* It's a big file so it may take a moment.
 
 
 ## Using Online Excel
 * If you don't want to download Office 365, there is an online version that can be used.
 * To access it, sign in to <a href="www.office.com">Office</a> 365, click on the dots in the top right corner, and click on Excel.
 ![Online Excel Image](images/excel.png)
+* Upload the dataset and start your work!
